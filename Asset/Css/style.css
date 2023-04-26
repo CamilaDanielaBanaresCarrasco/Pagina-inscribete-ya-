@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to left, rgb(75, 156, 196), rgb(119, 68, 215));
+}
+
+.bg-white{
+background: white;
+}
+
+.bg-calipso{
+    background: rgba(0, 119, 182, 0.8);
+    color: white;
+    text-transform: uppercase;
+}
+
+.form-control {
+    background-color: #eae6e6;
+    height: 50px;
+  }
+
+  p{
+    font-family: "Arial Rounded", sans-serif;
+  }
